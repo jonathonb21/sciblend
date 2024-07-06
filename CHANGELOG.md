@@ -8,4 +8,3 @@
 ## 1.0.0 - upstream
 
 - ParaView X3D export macros and Blender SciBlend addon
-<!-- history:changelog-110 -->

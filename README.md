@@ -29,7 +29,7 @@ SciBlend is a powerful add-on for Blender 4.2 that serves as a crucial bridge be
 9. [Demos](#demos)
 
 
-https://github.com/user-attachments/assets/675cdb0f-2aca-4328-be14-432923eab8e2
+<video src="docs/media/demo-overview.mp4" controls width="100%"></video>
 
 ## Updated Features
 
@@ -166,12 +166,13 @@ For questions, issues, or feature requests, please use the GitHub issue tracker 
 
 ## Demos
 
-https://github.com/user-attachments/assets/4bc2184c-d9bc-4ba3-8bc3-a18c295fea1e
+<video src="docs/media/demo-1.mp4" controls width="100%"></video>
 
 
-https://github.com/user-attachments/assets/2374c9a9-43c7-4ce7-8629-3a7adeb4e3d4
+<video src="docs/media/demo-2.mp4" controls width="100%"></video>
 
 
-https://github.com/user-attachments/assets/e3b058e8-eb94-497c-853a-d520418599cf
-<!-- history:readme-install -->
-<!-- history:readme-attrib -->
+<video src="docs/media/demo-3.mp4" controls width="100%"></video>
+## Full walkthrough
+
+<video src="docs/media/sciblend-full-demo.mp4" controls width="100%"></video>
