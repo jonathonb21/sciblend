@@ -1,10 +1,10 @@
 # Changelog
 
-## 1.1.0 - 2026-06-02
+## 1.1.0 - 2026
 
-- Maintainer documentation and manifest metadata refresh
-- Usage guide for ParaView macro + Blender import pipeline
+- Documentation refresh and Blender 4.2 manifest metadata
+- Demo media bundled in `docs/media/`
 
-## 1.0.0 - upstream
+## 1.0.0 - 2024
 
-- ParaView X3D export macros and Blender SciBlend addon
+- Initial public release: ParaView macros and Blender SciBlend add-on
