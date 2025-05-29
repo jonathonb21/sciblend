@@ -5,7 +5,7 @@ name = "SciBlend"
 author = "Jonathon Brunson"
 tagline = "Scientific Solutions for Blender"
 description = """
-v.1.0.0
+v.1.1.0
 
 This addon enhances Blender's capabilities with specialized tools for importing and managing files and scenes. Key features include:
 Import static and animated files from Paraview with customizable settings
