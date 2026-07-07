@@ -4,7 +4,11 @@
 
 SciBlend is a Blender 4.2+ add-on and ParaView macro set I developed to move scientific simulation data from ParaView into Blender for publication-quality rendering. It supports static and animated X3D export, material management, null-object grouping, and scene presets tuned for research visuals.
 
-<video src="docs/media/demo-overview.mp4" controls width="100%"></video>
+### Overview
+
+<video src="https://raw.githubusercontent.com/jonathonb21/sciblend/main/docs/media/demo-overview.mp4" controls width="100%"></video>
+
+[Download overview demo](docs/media/demo-overview.mp4)
 
 ## Table of Contents
 
@@ -75,15 +79,29 @@ Contact [jonathonbrunson21@gmail.com](mailto:jonathonbrunson21@gmail.com) or ope
 
 ## Demos
 
-<video src="docs/media/demo-1.mp4" controls width="100%"></video>
+### Demo 1
 
-<video src="docs/media/demo-2.mp4" controls width="100%"></video>
+<video src="https://raw.githubusercontent.com/jonathonb21/sciblend/main/docs/media/demo-1.mp4" controls width="100%"></video>
 
-<video src="docs/media/demo-3.mp4" controls width="100%"></video>
+[Download demo 1](docs/media/demo-1.mp4)
+
+### Demo 2
+
+<video src="https://raw.githubusercontent.com/jonathonb21/sciblend/main/docs/media/demo-2.mp4" controls width="100%"></video>
+
+[Download demo 2](docs/media/demo-2.mp4)
+
+### Demo 3
+
+<video src="https://raw.githubusercontent.com/jonathonb21/sciblend/main/docs/media/demo-3.mp4" controls width="100%"></video>
+
+[Download demo 3](docs/media/demo-3.mp4)
 
 ## Full walkthrough
 
-<video src="docs/media/sciblend-full-demo.mp4" controls width="100%"></video>
+<video src="https://raw.githubusercontent.com/jonathonb21/sciblend/main/docs/media/sciblend-full-demo.mp4" controls width="100%"></video>
+
+[Download full walkthrough](docs/media/sciblend-full-demo.mp4)
 
 ## Repository
 
