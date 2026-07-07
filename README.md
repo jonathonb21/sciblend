@@ -1,6 +1,6 @@
-# SciBlend â€” ParaView to Blender scientific visualization
+# SciBlend - ParaView to Blender scientific visualization
 
-**Developer:** [Jonathon Brunson](https://github.com/jonathonb21) Â· [jonathonbrunson21@gmail.com](mailto:jonathonbrunson21@gmail.com)
+**Developer:** [Jonathon Brunson](https://github.com/jonathonb21) | [jonathonbrunson21@gmail.com](mailto:jonathonbrunson21@gmail.com)
 
 SciBlend is a Blender 4.2+ add-on and ParaView macro set I developed to move scientific simulation data from ParaView into Blender for publication-quality rendering. It supports static and animated X3D export, material management, null-object grouping, and scene presets tuned for research visuals.
 
@@ -50,12 +50,12 @@ Scientific simulations produce complex, multi-dimensional data. ParaView excels 
 ### 1. Paraview Macros Installation
 
 1. Open the `Paraview Macros` folder in this repository.
-2. In ParaView, go to **Macros â†’ Import New Macro** and import `export_static.py` and `export_animation.py`.
+2. In ParaView, go to **Macros -> Import New Macro** and import `export_static.py` and `export_animation.py`.
 
 ### 2. Blender Addon Installation
 
 1. Zip the `SciBlend` folder.
-2. In Blender: **Edit â†’ Preferences â†’ Add-ons â†’ Install** and enable **SciBlend**.
+2. In Blender: **Edit -> Preferences -> Add-ons -> Install** and enable **SciBlend**.
 
 ## Exporting Data from Paraview
 
@@ -91,4 +91,4 @@ https://github.com/jonathonb21/sciblend
 
 ## License
 
-GPLv3 â€” see [LICENSE](LICENSE).
+GPLv3 - see [LICENSE](LICENSE).
